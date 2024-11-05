@@ -7,7 +7,7 @@
 
   /*  Global Border Radius
    *  applied to ALL UI elements
-   */ --uc-border-radius: 0px;
+   */ --uc-border-radius: 8px;
 
 
   /*  The distance the Statuspanel floats
@@ -81,7 +81,7 @@
   /*  Firefox can be a little wonky with the vertical
    *  URL Bar placement. Change this variable to adapt
    *  to this when necessary.
-   */ --uc-urlbar-top-spacing: 1px;
+   */ --uc-urlbar-top-spacing: -4px;
 
 }
 
